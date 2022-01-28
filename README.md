@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voidglitch&label=Profile%20views&color=0e75b6&style=flat" alt="voidglitch" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://joshsoriano.com/wp-content/uploads/2022/01/coding.gif" loading="lazy">
+
 - 🌱 I’m currently learning **React native and Firebase**
 
 - 📝 I frequently write articles on [My coding and life journey](My coding and life journey)
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voidglitch&show_icons=true&locale=en" alt="voidglitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voidglitch&" alt="voidglitch" /></p>
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" loading="lazy">
