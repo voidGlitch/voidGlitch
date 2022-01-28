@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React native and Firebase**
 
-- 📝 I frequently write articles on [My coding and life journey](My coding and life journey)
+- 📝 I frequently write Journals on **My coding and life journey**
 
 - 💬 Ask me about **React,logical code building and styling**
 
