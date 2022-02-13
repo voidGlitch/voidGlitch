@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://joshsoriano.com/wp-content/uploads/2022/01/coding.gif" loading="lazy">
 
-- 🌱 I’m currently learning **React native and Firebase**
+- 🌱 I’m currently learning **React native,Firebase and Django**
 
 - 📝 I frequently write Journals on **My coding and life journey**
 
